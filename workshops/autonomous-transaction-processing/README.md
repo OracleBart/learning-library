@@ -93,24 +93,43 @@ Read on to begin your Getting Started journey with Oracle Autonomous Transaction
 
 **[Click here to run Lab 5](LabGuide500Configurenode.jsAppWithATP.md)**
 
+## Lab 6: Configure Java with ATP
 
-## Lab 6: Building microservices on ATP
+*Key Objectives**:
+- Learn how to build a linux Java application server and connect it to an Oracle ATP database service
+**[Click here to run Lab 6](LabGuide600ConfigureJavaAppWithATP.md)**
+
+## Lab 7: Working with REST APIs
+**Key Objectives**:
+- Learn how to generate REST calls to the Oracle Cloud Infrastructure using node.js
+
+**[Click here to run Lab 7](LabGuide700WorkingWithRESTAPIs.md)**
+
+## Lab 8: Building microservices on ATP
 
 **Key Objectives**:
 
 - To build a docker container running node.js microservice
 - Deploy it on an ATP service
 
-**[Click here to run Lab 6](LabGuide800BuildingMicroservicesOnATP.md)**
+**[Click here to run Lab 8](LabGuide800BuildingMicroservicesOnATP.md)**
 
-## Lab 7: Configure OCI-CLI
+## Lab 9: Configure OCI-CLI
 
 **Key Objectives**:
 
 - Configure Oracle Cloud Infrastructure Command Line Interface
 - Run examples using OCI-CLI for Autonomous Transaction Processing database
 
-**[Click here to run Lab 7](LabGuide900ConfigureOCI-CLI.md)**
+**[Click here to run Lab 9](LabGuide900ConfigureOCI-CLI.md)**
+
+## Lab 10: Mastering DevOps in the Oracle Cloud
+**Key Objectives**:
+- Connect Oracle ATP to Python
+- Connect Oracle ATP to Java
+- Connect Oracle ATP to Node
+- Utilize Terraform to control ATP
+- Utilize OCI-CLI to control ATP
 
 
 ## Appendix
